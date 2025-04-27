@@ -30,7 +30,7 @@ Incluye colección Postman completa con tests automatizados para todas las rutas
 - Frontend: Angular
 - Base de datos: PostgreSQL
 - Pruebas: Postman
-- Despliegue: Render
+- Despliegue: Railway + Vercel
 
 ## Autora
 

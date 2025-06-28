@@ -1,10 +1,11 @@
 # Swapfy
 
 **Swapfy** es una plataforma de trueque digital desarrollada como proyecto final del CFGS de Desarrollo de Aplicaciones Web. Permite a los usuarios intercambiar articulos entre ellos y chatear.
-## Repositorios del proyecto
 
 -> https://swapfy-frontend.vercel.app/auth
 
+
+## Repositorios del proyecto
 
 - Backend (Java + Spring Boot):  
   -> [swapfy-backend](https://github.com/MarSierraG/swapfy-backend)
